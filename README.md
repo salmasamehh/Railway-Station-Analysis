@@ -36,25 +36,24 @@ after a delay or cancellation.
 1. removing duplicates.
 changing data type of the time of purchase ,
 interarrival time and actual arrival time to time.
-2.
-adding column named purchase time interval to
+2.adding column named purchase time interval to
 determine Morning and Evening
-3.
-splitting the Arrival stations column to Arrival
+
+3.splitting the Arrival stations column to Arrival
 station-city and Arrival Station-place to ease
 anlysis on city and display a map .
-4.
-adding calculated field named Arrival delay [Actual
+
+4.adding calculated field named Arrival delay [Actual
 Arrival time - Arrival time ]
-5.
-adding calculated field named journey Time
+
+5.adding calculated field named journey Time
 [Actual Arrival time - Departure time ]
-6.
+
 **CLEANING USING PYTHON:**
 filling nulls in Reason for Delay field with "Non
 Cancelled nor Delayed".
-1.
-detected for outliers on the price field but didnot
+
+1.detected for outliers on the price field but didnot
 remove them as they are not a data false they were
 descrbtive.
 ## POWER BI
