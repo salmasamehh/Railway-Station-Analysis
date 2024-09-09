@@ -1,7 +1,14 @@
 <h1>Dashboard Overview</h1>
 
 <p align="center">
-  <img src="D:\AI\Projects\NTI Projects\Final Project\Screenshot (152).png" width="500"/>
+  <img src="https://github.com/salmasamehh/Railway-Station-Analysis/blob/main/Screenshot%20(152).png" width="500"/>
+</p>
+
+
+<h1>Dashboard Map</h1>
+
+<p align="center">
+  <img src="https://github.com/salmasamehh/Railway-Station-Analysis/blob/main/Screenshot%20(151).png" width="500"/>
 </p>
 
 
