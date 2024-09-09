@@ -1,4 +1,6 @@
-![Dashboard Overview]("D:\AI\Projects\NTI Projects\Final Project\Screenshot (152).png")
+<div align="center"> <img src="D:\AI\Projects\NTI Projects\Final Project\Screenshot (152).png"/>
+ </div>
+<div align="center">
 
 
 
